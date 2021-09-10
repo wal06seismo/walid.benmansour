@@ -1,0 +1,17 @@
+title: Walid Ben Mansour PhD Geophysics # your name (or website title) here
+logo: "/images/Photo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Structural seismologist-Geophysicist
+  
+  <br>Post-doctoral Research Associate working on multi-observable probabilistic tomography for different targets (mining, seismic hazard).  <br>
+  
+  <img src="CH.png">     
+
+    <br>Research interests:   <br>
+    <br> -- Cratonic domains
+         -- Volcanism
+         -- Mantle rheology 
+         -- Seismic cycle 
+         -- Subduction zone <br>
+         
+theme: jekyll-theme-minimal
